@@ -1,0 +1,7 @@
+    0003ABCD	                       KC	                   Bishal	                         Rukum	               Rukum	 RUK	04334
+    0002ABCD	                 Maharjan	                  Aashish	                         Bafal	           Kathmandu	 KTM	04335
+    0001ABCD	                  Pokhrel	                   Alisha	                       Tanahun	             Tanahun	 TAN	04336
+    0005ABCD	                    Deuja	                    Anish	                    Biratnagar	          Biratnagar	 BIR	04331
+    0004ABCD	                       KC	                    Samir	                    Biratnagar	          Biratnagar	 BIR	04331
+    0006ABCD	                     Musk	                     Elon	                        Birate	          Biratnagar	 NYT	04331
+    0007ABCD	                  Bacchan	                 Abhishek	                         Bafal	           Kathmandu	 KTM	04333
